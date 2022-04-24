@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Workspace\\C Sharp\\Portfolio\\WebApplicationEntity\\WebApplicationEntity\\WebApplicationEntity.csproj": {}
+    "C:\\Users\\lucas\\Workspace\\C Sharp\\Portfolio\\WebApplicationEntity\\WebApplicationEntity\\SalesWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Workspace\\C Sharp\\Portfolio\\WebApplicationEntity\\WebApplicationEntity\\WebApplicationEntity.csproj": {
+    "C:\\Users\\lucas\\Workspace\\C Sharp\\Portfolio\\WebApplicationEntity\\WebApplicationEntity\\SalesWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Workspace\\C Sharp\\Portfolio\\WebApplicationEntity\\WebApplicationEntity\\WebApplicationEntity.csproj",
-        "projectName": "WebApplicationEntity",
-        "projectPath": "C:\\Users\\lucas\\Workspace\\C Sharp\\Portfolio\\WebApplicationEntity\\WebApplicationEntity\\WebApplicationEntity.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Workspace\\C Sharp\\Portfolio\\WebApplicationEntity\\WebApplicationEntity\\SalesWebMVC.csproj",
+        "projectName": "SalesWebMVC",
+        "projectPath": "C:\\Users\\lucas\\Workspace\\C Sharp\\Portfolio\\WebApplicationEntity\\WebApplicationEntity\\SalesWebMVC.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lucas\\Workspace\\C Sharp\\Portfolio\\WebApplicationEntity\\WebApplicationEntity\\obj\\",
         "projectStyle": "PackageReference",

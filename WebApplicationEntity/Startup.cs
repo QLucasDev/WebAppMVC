@@ -37,7 +37,8 @@ namespace WebApplicationEntity
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddDbContext<WebApplicationEntityContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("WebApplicationEntityContext")));
+                    options.UseMySql(Configuration.GetConnectionString("WebApplicationEntityContext"), builder =>
+                    builder.MigrationsAssembly("WebApplicationEntity")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
