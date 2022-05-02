@@ -1,4 +1,3 @@
-C:\Users\lucas\Workspace\C Sharp\Portfolio\WebApplicationEntity\WebApplicationEntity\obj\Debug\netcoreapp2.1\WebApplicationEntity.csproj.AssemblyReference.cache
 C:\Users\lucas\Workspace\C Sharp\Portfolio\WebApplicationEntity\WebApplicationEntity\obj\Debug\netcoreapp2.1\WebApplicationEntity.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\lucas\Workspace\C Sharp\Portfolio\WebApplicationEntity\WebApplicationEntity\obj\Debug\netcoreapp2.1\WebApplicationEntity.AssemblyInfoInputs.cache
 C:\Users\lucas\Workspace\C Sharp\Portfolio\WebApplicationEntity\WebApplicationEntity\obj\Debug\netcoreapp2.1\WebApplicationEntity.AssemblyInfo.cs
@@ -39,3 +38,4 @@ C:\Users\lucas\Workspace\C Sharp\Portfolio\WebApplicationEntity\WebApplicationEn
 C:\Users\lucas\Workspace\C Sharp\Portfolio\WebApplicationEntity\WebApplicationEntity\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\lucas\Workspace\C Sharp\Portfolio\WebApplicationEntity\WebApplicationEntity\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\lucas\Workspace\C Sharp\Portfolio\WebApplicationEntity\WebApplicationEntity\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\lucas\Workspace\C Sharp\Portfolio\WebApplicationEntity\WebApplicationEntity\obj\Debug\netcoreapp2.1\WebApplicationEntity.csproj.AssemblyReference.cache
