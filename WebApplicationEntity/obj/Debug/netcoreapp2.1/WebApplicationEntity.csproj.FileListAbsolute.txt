@@ -39,3 +39,4 @@ C:\Users\lucas\Workspace\C Sharp\Portfolio\WebApplicationEntity\WebApplicationEn
 C:\Users\lucas\Workspace\C Sharp\Portfolio\WebApplicationEntity\WebApplicationEntity\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\lucas\Workspace\C Sharp\Portfolio\WebApplicationEntity\WebApplicationEntity\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\lucas\Workspace\C Sharp\Portfolio\WebApplicationEntity\WebApplicationEntity\obj\Debug\netcoreapp2.1\WebApplicationEntity.csproj.AssemblyReference.cache
+C:\Users\lucas\Workspace\C Sharp\Portfolio\WebApplicationEntity\WebApplicationEntity\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
